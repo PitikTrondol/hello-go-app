@@ -2,3 +2,5 @@ github.com/PitikTrondol/hello-go-module v0.0.1 h1:+BrikbPP/CA1l9mmAzn6rm8Z5UOhjv
 github.com/PitikTrondol/hello-go-module v0.0.1/go.mod h1:ArMTRO+RkWt9VKu7KGWiahepbHOvPlAH65R79B907mg=
 github.com/PitikTrondol/hello-go-module v0.0.2 h1:Y7NLgeGhN4aGtID8sCiRGmtzPglsBdkrQLel1D3ChY4=
 github.com/PitikTrondol/hello-go-module v0.0.2/go.mod h1:ArMTRO+RkWt9VKu7KGWiahepbHOvPlAH65R79B907mg=
+github.com/PitikTrondol/hello-go-module/v2 v2.0.0-20210704081940-54b0bd55d261 h1:5NhmUs0l3ru0XbdPAy1mhyek6AlxLiQC0/SZvOn4BJk=
+github.com/PitikTrondol/hello-go-module/v2 v2.0.0-20210704081940-54b0bd55d261/go.mod h1:qSL9F6DoDhsByA23prTVVyfq4tVuMO1a4twpXorkkqA=
